@@ -22,7 +22,7 @@ Cloudbursts—short but extreme rainfall events—can lead to severe flooding an
 
 ## 📑 Report Contents
 
-The full report is available [here](https://github.com/weixuanshao/cloudburst-prediction-ariel/blob/main/Final%20Report_Weixuan%20(Ariel)%20Shao.pdf) 
+The full report is available [here.](https://github.com/weixuanshao/cloudburst-prediction-ariel/blob/main/Final%20Report_Weixuan%20(Ariel)%20Shao.pdf) 
 
 The report is organized into the following sections:
 
