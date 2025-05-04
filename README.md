@@ -8,7 +8,7 @@ Cloudbursts—short but extreme rainfall events—can lead to severe flooding an
 
 ## 📂 Files
 
-- `Weather Data Exploration_Ariel Shao.ipynb`
+- `Weather Data Exploration_Ariel Shao.ipynb`  
   Initial data exploration and preprocessing steps. Includes visualizations, summary statistics, and variable selection rationale.
 
 - `Heavy Rainfall Forecasting_Ariel Shao.ipynb`  
@@ -17,7 +17,7 @@ Cloudbursts—short but extreme rainfall events—can lead to severe flooding an
 - `Improving Cloudburst Prediction_Ariel Shao.ipynb`  
   Applies feature engineering (e.g., dry period duration, interaction terms) and a Random Forest model to improve cloudburst prediction.
 
-- `Final Report_Weixuan (Ariel) Shao.pdf`
+- `Final Report_Weixuan (Ariel) Shao.pdf`  
   Full final report summarizing methodology, results, ethical considerations, and reflections.
 
 ## 📑 Report Contents
